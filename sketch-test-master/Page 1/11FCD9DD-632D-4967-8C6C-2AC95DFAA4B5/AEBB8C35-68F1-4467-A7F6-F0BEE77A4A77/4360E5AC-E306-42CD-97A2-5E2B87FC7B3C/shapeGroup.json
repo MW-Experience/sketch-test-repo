@@ -17,11 +17,11 @@
     "constrainProportions": false,
     "height": 170,
     "width": 350,
-    "x": 165,
-    "y": 190
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -34,7 +34,7 @@
       "id": "A973879C-5724-426C-8C44-A7E89CF3C679"
     }
   ],
-  "name": "Rectangle",
+  "name": "Mask",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -59,24 +59,6 @@
       }
     ],
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.1385422945022583,
-          "green": 0.6503673195838928,
-          "red": 0.9617109894752502
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 0
